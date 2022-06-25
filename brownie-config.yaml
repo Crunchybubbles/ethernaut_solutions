@@ -1,0 +1,5 @@
+dotenv: .env
+
+networks:
+    live:
+         reverting_tx_gas_limit: max
